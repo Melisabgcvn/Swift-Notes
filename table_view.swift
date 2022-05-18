@@ -39,7 +39,5 @@ class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource
     }}
 
 
-//KENT SİMGELERİ
-
 
 
