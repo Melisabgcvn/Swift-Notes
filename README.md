@@ -76,6 +76,12 @@ Ynei bir view controller ekledik:
 <img width="927" alt="Ekran Resmi 2022-05-18 11 17 02" src="https://user-images.githubusercontent.com/96236352/168991750-5463aae0-1e50-40e5-b028-3614e74ee8d4.png">
 
 
+#kullanıcıya ufak bir uyarı mesaı verir. Mesela bu uygulama resim ekleyebilmek için sizin galerinize erişmek istiyor. Şu an mevcut olarak yeni sürümlerde kullanılmıyor.
+
+
+<img width="870" alt="Ekran Resmi 2022-05-21 18 43 11" src="https://user-images.githubusercontent.com/96236352/169659027-abb4b4cc-5ea8-41f0-9de7-adaa02f4ac3c.png">
+
+
 
 
 
