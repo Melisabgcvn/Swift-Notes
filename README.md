@@ -84,25 +84,29 @@ Ynei bir view controller ekledik:
 
 POP UP PENCERE GÖRÜNÜMÜNÜ DEĞİŞTİRMEK :
 
-Ekran Resmi 2022-07-11 15 19 23
+<img width="317" alt="178262599-01b4c56c-556a-401c-9415-1ab236e02a11" src="https://user-images.githubusercontent.com/96236352/179033515-4a762e96-70c7-43b8-bbbe-321a241dd141.png">
+
 
 -tofeedvc isimli segue seçili iken
 
-Ekran Resmi 2022-07-11 15 20 22
+<img width="783" alt="178262761-a8d2037c-1c62-4480-8b2f-e7bedb7c6d45" src="https://user-images.githubusercontent.com/96236352/179033547-a321fed3-ca42-4548-a709-7287aa54bb1e.png">
+
 
 -Segue nin attributes kısmına geliyoruz.
 
-Ekran Resmi 2022-07-11 15 21 17
+<img width="288" alt="178262950-b090c2ef-4a13-4737-9d7f-0d3eb792160b" src="https://user-images.githubusercontent.com/96236352/179033586-37e588fa-ed91-4afd-98c0-8e2307d88848.png">
+
 
 Default genelde Kind = "Show" olur.
 
 Onu present Modally olarak değiştiriyoruz. daha sonra Presentation kısmında full screen seçeneğini seçiyoruz
 
-Ekran Resmi 2022-07-11 15 22 25
+<img width="324" alt="178263148-68d2e9ef-ece3-49c6-ac0c-0f3eea2ccd8a" src="https://user-images.githubusercontent.com/96236352/179033629-2f9ba005-6af3-46a5-9506-97363d8e9ccf.png">
+
 
 Ve düzeldi.
 
-Ekran Resmi 2022-07-11 15 23 06
+<img width="445" alt="178263294-373a157b-29ea-47be-bc11-9fa7f950d792" src="https://user-images.githubusercontent.com/96236352/179033657-c21fc815-af3d-4e6e-85ec-dbfb4f5b729d.png">
 
 
 
