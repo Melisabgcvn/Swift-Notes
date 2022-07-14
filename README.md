@@ -82,7 +82,27 @@ Ynei bir view controller ekledik:
 <img width="870" alt="Ekran Resmi 2022-05-21 18 43 11" src="https://user-images.githubusercontent.com/96236352/169659027-abb4b4cc-5ea8-41f0-9de7-adaa02f4ac3c.png">
 
 
+POP UP PENCERE GÖRÜNÜMÜNÜ DEĞİŞTİRMEK :
 
+Ekran Resmi 2022-07-11 15 19 23
+
+-tofeedvc isimli segue seçili iken
+
+Ekran Resmi 2022-07-11 15 20 22
+
+-Segue nin attributes kısmına geliyoruz.
+
+Ekran Resmi 2022-07-11 15 21 17
+
+Default genelde Kind = "Show" olur.
+
+Onu present Modally olarak değiştiriyoruz. daha sonra Presentation kısmında full screen seçeneğini seçiyoruz
+
+Ekran Resmi 2022-07-11 15 22 25
+
+Ve düzeldi.
+
+Ekran Resmi 2022-07-11 15 23 06
 
 
 
